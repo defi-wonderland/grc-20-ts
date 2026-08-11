@@ -28,12 +28,12 @@
   },
   "dependencies": {
     "@geoprotocol/grc-20": "^0.1.7",
-    "effect": "^3.17.13",
+    "effect": "^3.20.0",
     "fflate": "^0.8.2",
     "fractional-indexing-jittered": "^1.0.0",
     "image-size": "^2.0.2",
     "permissionless": "^0.2.35",
-    "uuid": "^13.0.0",
+    "uuid": "^14.0.0",
     "viem": "^2.37.6"
   },
   "devDependencies": {
@@ -41,7 +41,7 @@
     "@changesets/cli": "^2.29.7",
     "@types/uuid": "^11.0.0",
     "typescript": "^5.9.2",
-    "vitest": "^3.2.4"
+    "vitest": "^3.2.6"
   },
   "packageManager": "pnpm@10.5.2",
   "pnpm": {
